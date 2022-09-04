@@ -3,7 +3,7 @@ authors = [
     "Hugo Authors",
 ]
 title = "Image Gallery"
-date = "2020-01-02"
+date = "2022-10-02"
 description = "Showcase the image gallery feature."
 tags = [
     "gallery",
