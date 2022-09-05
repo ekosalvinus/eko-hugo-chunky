@@ -4,7 +4,7 @@ authors = [
     "John Doe",
 ]
 title = "Emoji Support"
-date = "2023-03-05"
+date = "2022-09-05T10:17:00+07:00"
 description = "Guide to emoji usage in Hugo"
 tags = [
     "emoji",
