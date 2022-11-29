@@ -1,6 +1,6 @@
 ---
 title: "Coba Templat Tiga"
-date: 2022-11-03T23:23:13+07:00
+date: "2022-10-02"
 images: [bingpic.jpg]
 categories: ["syntax","themes",]
 tags: ["text","css",]

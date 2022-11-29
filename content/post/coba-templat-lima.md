@@ -1,6 +1,6 @@
 ---
 title: "Coba Templat Lima"
-date: 2022-11-03T23:33:49+07:00
+date: "2022-10-02"
 images: [bingpic.jpg]
 categories: ["uncategorized","themes",]
 tags: ["blog","css",]

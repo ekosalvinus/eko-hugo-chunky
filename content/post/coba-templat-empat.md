@@ -1,6 +1,6 @@
 ---
 title: "Coba Templat Empat"
-date: 2022-11-03T23:31:15+07:00
+date: "2022-10-02"
 images: [bingpic.jpg]
 categories: ["uncategorized","themes",]
 tags: ["blog","css",]
