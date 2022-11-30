@@ -5,6 +5,7 @@ images: [bingpic.jpg]
 categories: ["uncategorized","themes",]
 tags: ["blog","css",]
 authors: ["Eko Salvinus"]
+series : ["Themes Guide"]
 ---
 
 Lorem est tota propiore conpellat pectoribus de

@@ -43,7 +43,6 @@ author = "authors"
   description = "Website Developer & UI Designer"
   homepageImage = "/images/homepage-image.jpg"
   # dateFormat = "February 2, 2022"
-  # dateFormat = "February 2, 2022"
   share = true
   showLanguageSwitcher = false
 
