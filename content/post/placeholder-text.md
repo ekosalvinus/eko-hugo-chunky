@@ -1,18 +1,11 @@
-+++
-authors = [
-    "Hugo Authors",
-]
-title = "Placeholder Text"
-date = "2019-03-09"
-description = "Lorem Ipsum Dolor Si Amet"
-tags = [
-    "markdown",
-    "text",
-]
-images = [
-    "placeholder-text.jpg",
-]
-+++
+---
+title: "Placeholder Text"
+date: "2022-11-30T09:15:00+07:00"
+images: [bingpic.jpg]
+categories: ["uncategorized","themes",]
+tags: ["blog","css",]
+authors: ["Eko Salvinus"]
+---
 
 Lorem est tota propiore conpellat pectoribus de
 pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice

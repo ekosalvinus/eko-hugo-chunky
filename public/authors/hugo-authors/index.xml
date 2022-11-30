@@ -1,36 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Themes</title>
+    <title>Eko Salvinus</title>
     <link>/authors/hugo-authors/</link>
-    <description>Recent content on Hugo Themes</description>
+    <description>Recent content on Eko Salvinus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © Eko Salvinus</copyright>
-    <lastBuildDate>Mon, 05 Sep 2022 10:38:48 +0700</lastBuildDate><atom:link href="/authors/hugo-authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/authors/hugo-authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
       <link>/post/emoji-support/</link>
-      <pubDate>Mon, 05 Sep 2022 10:38:48 +0700</pubDate>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/post/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Placeholder Text</title>
-      <link>/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Image Gallery</title>
+      <link>/post/image-gallery/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
+      <guid>/post/image-gallery/</guid>
+      <description>&lt;p&gt;Showcase the image gallery feature using the &lt;code&gt;Figure&lt;/code&gt; shortcode. Images using the &lt;code&gt;Figure&lt;/code&gt; shortcode will be rendered through &lt;a href=&#34;https://ashleydw.github.io/lightbox/&#34;&gt;&lt;code&gt;ekko-lightbox&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Math Typesetting</title>
       <link>/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/post/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
