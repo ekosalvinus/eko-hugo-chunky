@@ -8,10 +8,10 @@ images = [""]
 +++
 
 {{< figure src="/images/cupk-mobile/cupk-mobile-feat.jpg" >}}
-###### Client: CU PANCUR KASIH
-###### Location: Pontianak– Indonesia
-###### Year: 2020 – 2021
-###### Link Application: [CUPK Mobile](https://play.google.com/store/apps/details?id=org.cupk.mobile)  
+Client: CU PANCUR KASIH
+Location: Pontianak– Indonesia
+Year: 2020 – 2021
+Link Application: [CUPK Mobile](https://play.google.com/store/apps/details?id=org.cupk.mobile)  
 
 
 ### Overview
