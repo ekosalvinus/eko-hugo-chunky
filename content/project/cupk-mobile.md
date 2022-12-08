@@ -6,6 +6,7 @@ aliases = ["cupk-mobile","projects","work"]
 author = "Eko Salvinus"
 images = [""]
 +++
+
 {{< figure src="/images/cupk-mobile/cupk-mobile-feat.jpg" >}}
 ###### Client: CU PANCUR KASIH
 ###### Location: Pontianak– Indonesia
