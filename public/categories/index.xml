@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © Eko Salvinus</copyright>
-    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Dec 2022 16:39:15 +0700</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>themes</title>
       <link>/categories/themes/</link>
-      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Dec 2022 16:39:15 +0700</pubDate>
       
       <guid>/categories/themes/</guid>
       <description></description>
@@ -20,9 +20,18 @@
     <item>
       <title>uncategorized</title>
       <link>/categories/uncategorized/</link>
-      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Dec 2022 16:39:15 +0700</pubDate>
       
       <guid>/categories/uncategorized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>/categories/blog/</link>
+      <pubDate>Thu, 20 Oct 2022 09:03:20 +0700</pubDate>
+      
+      <guid>/categories/blog/</guid>
       <description></description>
     </item>
     
@@ -32,15 +41,6 @@
       <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blog</title>
-      <link>/categories/blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/blog/</guid>
       <description></description>
     </item>
     

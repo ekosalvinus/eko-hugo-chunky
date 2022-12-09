@@ -7,15 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © Eko Salvinus</copyright>
-    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Dec 2022 16:39:15 +0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javasript Array</title>
+      <link>/post/javasript-array/</link>
+      <pubDate>Fri, 02 Dec 2022 16:39:15 +0700</pubDate>
+      
+      <guid>/post/javasript-array/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CUPK Mobile – UI &amp; UX Mobile App Design</title>
+      <link>/project/cupk-mobile/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cupk-mobile/</guid>
+      <description>Client: CU PANCUR KASIH
+Location: Pontianak– Indonesia
+Year: 2020 – 2021
+Link Application: CUPK Mobile
+Overview CUPK Mobile application is an application that runs on android devices. CUPK Mobile is a financial application used in the Pancur Kasih Credit Union Savings and Loan Cooperative (CUPK). The CUPK Mobile application was first released on May 28, 2016. Some of the functions of CUPK Mobile are to save deposits, pay loan bills, electricity bills, water, telephone, internet, buy credit &amp;amp; data packages, transfers and many other payments.</description>
+    </item>
+    
     <item>
       <title>Placeholder Text</title>
       <link>/post/placeholder-text/</link>
-      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Nov 2022 09:15:00 +0700</pubDate>
       
       <guid>/post/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax</title>
+      <link>/post/markdown-syntax/</link>
+      <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
+      
+      <guid>/post/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Post Rabu</title>
+      <link>/post/post-rabu/</link>
+      <pubDate>Thu, 20 Oct 2022 09:03:20 +0700</pubDate>
+      
+      <guid>/post/post-rabu/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -88,28 +128,8 @@ https://github.com/spf13/cobra https://github.com/spf13/viper Hugo is ideal for 
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Hai, saya Eko Salvinus. Saya adalah seorang web developer dan UI desainer.
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax</title>
-      <link>/post/markdown-syntax/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Post Rabu</title>
-      <link>/post/post-rabu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/post-rabu/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <description>Hi, I am Eko Salvinus. I am a Web developer &amp;amp; UI Designer.
+Tools Front End Vue JS Vue JS (Quasar Framework) Website Development Wordpress UI Design Figma </description>
     </item>
     
   </channel>
