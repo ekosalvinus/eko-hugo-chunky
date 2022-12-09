@@ -7,7 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © Eko Salvinus</copyright>
-    <lastBuildDate>Fri, 02 Dec 2022 16:39:15 +0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2022 17:14:22 +0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CUPK Mobile - UI Design</title>
+      <link>/post/cupk-mobile/</link>
+      <pubDate>Fri, 09 Dec 2022 17:14:22 +0700</pubDate>
+      
+      <guid>/post/cupk-mobile/</guid>
+      <description>Client: CU PANCUR KASIH
+Location: Pontianak– Indonesia
+Year: 2020 – 2021
+Link Application: CUPK Mobile
+Overview CUPK Mobile application is an application that runs on android devices. CUPK Mobile is a financial application used in the Pancur Kasih Credit Union Savings and Loan Cooperative (CUPK). The CUPK Mobile application was first released on May 28, 2016. Some of the functions of CUPK Mobile are to save deposits, pay loan bills, electricity bills, water, telephone, internet, buy credit &amp;amp; data packages, transfers and many other payments.</description>
+    </item>
+    
     <item>
       <title>Javasript Array</title>
       <link>/post/javasript-array/</link>
@@ -19,10 +32,10 @@
     
     <item>
       <title>CUPK Mobile – UI &amp; UX Mobile App Design</title>
-      <link>/project/cupk-mobile/</link>
+      <link>/project/cupk-mobiles/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>/project/cupk-mobile/</guid>
+      <guid>/project/cupk-mobiles/</guid>
       <description>Client: CU PANCUR KASIH
 Location: Pontianak– Indonesia
 Year: 2020 – 2021

@@ -27,9 +27,9 @@ theme = "chunky"
     url = "/post/"
     weight = 0
   [[menu.main]]
-    identifier = "projects"
+    identifier = "portfolio"
     name = "Projects"
-    url = "/project/"
+    url = "/categories/portfolio/"
     weight = 0
 
 [taxonomies]
