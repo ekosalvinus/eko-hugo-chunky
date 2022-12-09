@@ -29,7 +29,7 @@ theme = "chunky"
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
-    url = "/projects/"
+    url = "/project/"
     weight = 0
 
 [taxonomies]
