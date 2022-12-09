@@ -114,10 +114,10 @@ pectora summo.&lt;/p&gt;</description>
     
     <item>
       <title>Projects</title>
-      <link>/projects/</link>
+      <link>/projectsaaa/</link>
       <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>/projects/</guid>
+      <guid>/projectsaaa/</guid>
       <description>Halo Golang in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 https://github.com/spf13/cobra https://github.com/spf13/viper Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.</description>
     </item>
